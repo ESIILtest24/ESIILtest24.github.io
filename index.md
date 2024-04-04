@@ -3,7 +3,7 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
 
 ##### Images of me
 ![picture of a pika](https://www.nps.gov/articles/000/images/Ochotona-princeps-American-Pika-by-Douglass-Owen-2.jpg "Pikas are great!")
-![]()
+![another pika picture](img/pika.jpeg "This image is hosted on GitHub")
 
 #### Contact Information
 * GitHub
