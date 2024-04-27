@@ -15,3 +15,6 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
 #### Experience
 
 #### Exciting things about me
+
+#### Map of United Tribes Technical College
+<embed type="text/html" src="img/uttc.html" width="600" height="600">
