@@ -16,5 +16,9 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
 
 #### Exciting things about me
 
-#### Map of United Tribes Technical College
-<embed type="text/html" src="img/uttc.html" width="600" height="600">
+#### Check out some of my work
+* [Temperature Changes at Many Glacier, MT (1980-2020)](notebook/many-glacier.html)
+
+
+#### Map of Glacier National Park
+<embed type="text/html" src="img/glacier-national-park.html" width="600" height="600">
