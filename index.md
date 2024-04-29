@@ -18,6 +18,8 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
 
 #### Check out some of my work
 * [Temperature Changes at Many Glacier, MT (1980-2020)](notebook/many-glacier.html)
+  
+  ![time-series plot of temperature vs. time at Many Glacier, Montana 1980-2020](img/many-glacier-temp.png)
 
 
 #### Map of Glacier National Park
