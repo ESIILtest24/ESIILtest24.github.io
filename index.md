@@ -23,12 +23,12 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
 #### Exciting things about me
 
 #### Check out some of my work
-* [Temperature changes at Many Glacier, MT (1980-2020)](notebook/many-glacier.html)
+* [**Temperature changes at Many Glacier, MT (1980-2020)**](notebook/many-glacier.html)
   
   ![time-series plot of temperature vs. time at Many Glacier, Montana 1980-2020](img/many-glacier-temp.png)
-  ![time-series plot of water equivalence vs. time at Many Glacier, Montana 1980-2020](img/many-glacier-wesd.png)
+  ![time-series plot of water equivalence vs. time at Many Glacier, Montana 1980-2020](img/wesd-many-glacier.png)
 
-* [Changes in vegetation health at Glacier National Park (2015-2020)](notebook/glacier-park-ndvi.html)
+* [**Changes in vegetation health at Glacier National Park (2015-2020)**](notebook/glacier-park-ndvi.html)
   ![spatiotemporal analysis of NDVI - map](img/glacier-ndvi-spatial.png)
   ![spatiotemporal analysis of NDVI - time-series](img/glacier-ndvi-time-series.png)
 
