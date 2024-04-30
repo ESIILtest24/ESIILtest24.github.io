@@ -28,7 +28,9 @@ Hi, I'm the **ESIIL** test student for 2024. I work with [Earth Lab](https://ear
   ![time-series plot of temperature vs. time at Many Glacier, Montana 1980-2020](img/many-glacier-temp.png)
   ![time-series plot of water equivalence vs. time at Many Glacier, Montana 1980-2020](img/many-glacier-wesd.png)
 
-* [Changes in vegetation health at Glacier National Park (2015-2020)](vegetation.html)
+* [Changes in vegetation health at Glacier National Park (2015-2020)](notebook/glacier-park-ndvi.html)
+  ![spatiotemporal analysis of NDVI - map](img/glacier-ndvi-spatial.png)
+  ![spatiotemporal analysis of NDVI - time-series](img/glacier-ndvi-time-series.png)
 
 
 #### Map of Glacier National Park
